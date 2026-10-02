@@ -30,7 +30,7 @@
     "@nestjs/swagger": "^4.7.16",
     "class-transformer": "^0.4.0",
     "class-validator": "^0.13.1",
-    "joi": "^17.4.0",
+    "joi": "^17.13.7",
     "mongodb": "^3.6.4",
     "mongoose": "^5.11.20",
     "reflect-metadata": "^0.1.13",
